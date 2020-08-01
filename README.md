@@ -27,7 +27,7 @@ java and sqlite web-application for CRUD functions (часть моей прои
 
 3. И также настроить преобразования в ShopDb.normalizeRecordFromObject
 
-4. Настроить файлы в database\create_queries\* и метод ShopDb.startProcedure
+4. Настроить файлы в database\create_queries и метод ShopDb.startProcedure
 
 5. Изменить файл site\head_links.html для удобной навигации. Имя таблицы соответствует имени в url запросе  
 
