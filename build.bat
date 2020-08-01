@@ -1,0 +1,1 @@
+javac .\src\Main.java .\src\Logger.java .\src\ShopDb.java .\src\Client_record.java .\src\Supplier_record.java .\src\Product_record.java .\src\HTTPServ.java .\src\Client_transaction_record_pure.java .\src\NormalizedRecord.java -d .\

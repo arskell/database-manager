@@ -1,0 +1,1 @@
+java -classpath ".;jdbc\sqlite-jdbc-3.7.2.jar" Main Logger ShopDb HTTPServ Product_record Supplier_record Client_record Client_transaction_record_pure NormalizedRecord
